@@ -1,0 +1,331 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Services\\Pokemon\\Pokemon.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Pokemon\\Application.Pokemon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Pokemon\\Application.Pokemon.csproj",
+        "projectName": "Application.Pokemon",
+        "projectPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Pokemon\\Application.Pokemon.csproj",
+        "packagesPath": "C:\\Users\\017429631\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Pokemon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\017429631\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Domain\\Pokemon\\Domain.Pokemon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Domain\\Pokemon\\Domain.Pokemon.csproj",
+        "projectName": "Domain.Pokemon",
+        "projectPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Domain\\Pokemon\\Domain.Pokemon.csproj",
+        "packagesPath": "C:\\Users\\017429631\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Domain\\Pokemon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\017429631\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\CrossCutting\\Pokemon\\Infra.CrossCutting.Pokemon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\CrossCutting\\Pokemon\\Infra.CrossCutting.Pokemon.csproj",
+        "projectName": "Infra.CrossCutting.Pokemon",
+        "projectPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\CrossCutting\\Pokemon\\Infra.CrossCutting.Pokemon.csproj",
+        "packagesPath": "C:\\Users\\017429631\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\CrossCutting\\Pokemon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\017429631\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Pokemon\\Application.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Pokemon\\Application.Pokemon.csproj"
+              },
+              "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\Data\\Pokemon\\Infra.Data.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\Data\\Pokemon\\Infra.Data.Pokemon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\Data\\Pokemon\\Infra.Data.Pokemon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\Data\\Pokemon\\Infra.Data.Pokemon.csproj",
+        "projectName": "Infra.Data.Pokemon",
+        "projectPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\Data\\Pokemon\\Infra.Data.Pokemon.csproj",
+        "packagesPath": "C:\\Users\\017429631\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\Data\\Pokemon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\017429631\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Domain\\Pokemon\\Domain.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Domain\\Pokemon\\Domain.Pokemon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Services\\Pokemon\\Pokemon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Services\\Pokemon\\Pokemon.csproj",
+        "projectName": "Pokemon",
+        "projectPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Services\\Pokemon\\Pokemon.csproj",
+        "packagesPath": "C:\\Users\\017429631\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Services\\Pokemon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\017429631\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\CrossCutting\\Pokemon\\Infra.CrossCutting.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Infra\\CrossCutting\\Pokemon\\Infra.CrossCutting.Pokemon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

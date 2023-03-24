@@ -1,0 +1,12 @@
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\bin\Debug\net6.0\Infra.Data.Trainer.deps.json
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\bin\Debug\net6.0\Infra.Data.Trainer.dll
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\bin\Debug\net6.0\Infra.Data.Trainer.pdb
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\obj\Debug\net6.0\Infra.Data.Trainer.csproj.AssemblyReference.cache
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\obj\Debug\net6.0\Infra.Data.Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\obj\Debug\net6.0\Infra.Data.Trainer.AssemblyInfoInputs.cache
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\obj\Debug\net6.0\Infra.Data.Trainer.AssemblyInfo.cs
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\obj\Debug\net6.0\Infra.Data.Trainer.csproj.CoreCompileInputs.cache
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\obj\Debug\net6.0\Infra.Data.Trainer.dll
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\obj\Debug\net6.0\refint\Infra.Data.Trainer.dll
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\obj\Debug\net6.0\Infra.Data.Trainer.pdb
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Infra.Data.Trainer\obj\Debug\net6.0\ref\Infra.Data.Trainer.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8eR3VAiDkjiDkq36T5i+aB8S5CpKHv3uWJFrbKW5VGJ1nmAGSsgAPBoS0wXr+/105ijm2CHfV3rBRbaAc9k67w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Trainer\\Application.Trainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\017429631\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\017429631\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

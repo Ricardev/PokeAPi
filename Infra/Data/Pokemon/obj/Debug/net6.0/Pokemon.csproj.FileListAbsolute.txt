@@ -1,0 +1,12 @@
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\bin\Debug\net6.0\Pokemon.deps.json
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\bin\Debug\net6.0\Pokemon.dll
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\bin\Debug\net6.0\Pokemon.pdb
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\obj\Debug\net6.0\Pokemon.csproj.AssemblyReference.cache
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\obj\Debug\net6.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\obj\Debug\net6.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\obj\Debug\net6.0\Pokemon.AssemblyInfo.cs
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\obj\Debug\net6.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\obj\Debug\net6.0\Pokemon.dll
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\obj\Debug\net6.0\refint\Pokemon.dll
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\obj\Debug\net6.0\Pokemon.pdb
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Infra\Data\Pokemon\obj\Debug\net6.0\ref\Pokemon.dll

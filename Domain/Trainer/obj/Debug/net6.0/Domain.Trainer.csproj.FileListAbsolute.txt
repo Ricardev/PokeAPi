@@ -1,0 +1,12 @@
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\bin\Debug\net6.0\Domain.Trainer.deps.json
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\bin\Debug\net6.0\Domain.Trainer.dll
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\bin\Debug\net6.0\Domain.Trainer.pdb
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\obj\Debug\net6.0\Domain.Trainer.csproj.AssemblyReference.cache
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\obj\Debug\net6.0\Domain.Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\obj\Debug\net6.0\Domain.Trainer.AssemblyInfoInputs.cache
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\obj\Debug\net6.0\Domain.Trainer.AssemblyInfo.cs
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\obj\Debug\net6.0\Domain.Trainer.csproj.CoreCompileInputs.cache
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\obj\Debug\net6.0\Domain.Trainer.dll
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\obj\Debug\net6.0\refint\Domain.Trainer.dll
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\obj\Debug\net6.0\Domain.Trainer.pdb
+C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Trainer\obj\Debug\net6.0\ref\Domain.Trainer.dll

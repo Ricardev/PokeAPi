@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Domain.Pokemon/1.0.0": {
+        "runtime": {
+          "Domain.Pokemon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain.Pokemon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
