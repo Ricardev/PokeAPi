@@ -1,6 +1,9 @@
-﻿namespace Trainer;
+﻿using Trainer.Models;
 
-public class ITrainerApplication
+namespace Trainer;
+
+public interface ITrainerApplication
 {
-    
+    public IEnumerable<GetTrainerModel> ObtemTreinadores();
+    public Task<bool> InsertTrainer(InsertTrainerModel trainer);
 }

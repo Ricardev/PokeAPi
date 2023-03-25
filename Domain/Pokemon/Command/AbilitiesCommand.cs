@@ -1,6 +1,11 @@
 ﻿namespace Pokemon.Command;
 
-public class AbilitiesCommand
+public class AbilityCommand
 {
-    
+    public string Name { get; set; }
+
+    public AbilityCommand(string name)
+    {
+        Name = name;
+    }
 }

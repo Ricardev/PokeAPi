@@ -1,35 +1,51 @@
-﻿public class PokemonEntityFromJson
+﻿using Newtonsoft.Json;
+using Pokemon.Entities;
+
+public class PokemonEntityFromJson
 {
     public int Id { get;  set; }
     public string Name { get;  set; }
-    public _SpritesFromJson sprites { get;  set; }
+    public SpritesFromJson Sprites { get;  set; }
     public int Height { get;  set; }
     public int Weight { get;  set; }
-    public ICollection<_AbilitiesFromJson> Abilities { get; set; }
-    public ICollection<_TypesFromJson> Types { get; set; }
+    public ICollection<AbilitiesFromJson> Abilities { get; set; }
+    public ICollection<TypesFromJson> Types { get; set; }
+    public ICollection<StatsFromJson> Stats { get; set; }
+    public EvolutionChainSpeciesEntityFromJson Species { get; set; }
+    public EvolutionChainEntityFromJson EvolutionChain { get; set; } 
+    public string EvolutionChainUrl { get; set; }
 
-    public class _SpritesFromJson
+    public class StatsFromJson
+    {
+        public StatFromJson Stat { get; set; }
+    }
+
+    public class StatFromJson
+    {
+        public string Name { get; set; }
+    }
+    public class SpritesFromJson
     {
         [JsonProperty("front_default")]
         public string FrontDefault { get; set; }
     }
 
-    public class _AbilitiesFromJson
+    public class AbilitiesFromJson
     {
-        public _AbilityFromJson Ability { get; set; }
+        public AbilityFromJson Ability { get; set; }
     }
 
-    public class _AbilityFromJson
+    public class AbilityFromJson
     {
         public string Name { get; set; }
     }
 
-    public class _TypesFromJson
+    public class TypesFromJson
     {
-        public _TypeFromJson Type { get; set; }
+        public TypeFromJson Type { get; set; }
     }
     
-    public class _TypeFromJson
+    public class TypeFromJson
     {
         public string Name { get; set; }
     }

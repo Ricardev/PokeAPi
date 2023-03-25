@@ -9,7 +9,7 @@ public static class PokemonAutoMapperConfig
         return new MapperConfiguration(configuration =>
         {
             configuration.AddProfile(new PokemonDomainToViewModel());
-            configuration.AddProfile(new ViewModelToDatabase());
+            configuration.AddProfile(new PokemonViewModelToDomain());
         });
     }
 }

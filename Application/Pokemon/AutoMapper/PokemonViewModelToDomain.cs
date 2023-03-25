@@ -1,12 +1,19 @@
 ﻿using AutoMapper;
+using Pokemon.Command;
+using Pokemon.Models;
 
 namespace Pokemon.AutoMapper;
 
-public class ViewModelToDatabase : Profile
+public class PokemonViewModelToDomain : Profile
 {
-    public ViewModelToDomain()
+    public PokemonViewModelToDomain()
     {
-        CreateMap<MakeOrderModel, CreateOrderCommand>()
-            .ConstructUsing(c => new CreateOrderCommand(c.UserId, c.ProductId, c.Quantity));
+        CreateMap<PokemonModel, CapturePokemonCommand>()
+            .ConstructUsing(ctor => new CapturePokemonCommand(ctor.Id,ctor.Name,ctor.FrontDefault,
+                ctor.Height,ctor.Weight));
+        CreateMap<AbilitiesModel, AbilityCommand>()
+            .ConstructUsing(ctor => new AbilityCommand(ctor.Ability.Name));
+        CreateMap<TypesModel, TypeCommand>()
+            .ConstructUsing(ctor => new TypeCommand(ctor.Type.Name));
     }
 }

@@ -1,9 +1,9 @@
 ﻿namespace Trainer.Models;
 
-public class TrainerModel
+public class GetTrainerModel
 {
-    public int Id { get; private set; }
-    public int Idade { get; private set; }
-    public int Cpf { get; private set; }
-    public IEnumerable<CapturedPokemonModel> Pokemons;
+    public int Id { get;  set; }
+    public string Name { get; set; }
+    public int Idade { get;  set; }
+    public string Cpf { get;  set; }
 }

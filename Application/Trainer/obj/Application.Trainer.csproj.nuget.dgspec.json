@@ -1,25 +1,93 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Trainer\\Application.Trainer.csproj": {}
+    "C:\\Users\\ricar\\Documents\\PokeAPi\\Application\\Trainer\\Application.Trainer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Trainer\\Application.Trainer.csproj": {
+    "C:\\Users\\ricar\\Documents\\PokeAPi\\Application\\Trainer\\Application.Trainer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Trainer\\Application.Trainer.csproj",
+        "projectUniqueName": "C:\\Users\\ricar\\Documents\\PokeAPi\\Application\\Trainer\\Application.Trainer.csproj",
         "projectName": "Application.Trainer",
-        "projectPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Trainer\\Application.Trainer.csproj",
-        "packagesPath": "C:\\Users\\017429631\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Application\\Trainer\\obj\\",
+        "projectPath": "C:\\Users\\ricar\\Documents\\PokeAPi\\Application\\Trainer\\Application.Trainer.csproj",
+        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricar\\Documents\\PokeAPi\\Application\\Trainer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\017429631\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ricar\\Documents\\PokeAPi\\Domain\\Trainer\\Domain.Trainer.csproj": {
+                "projectPath": "C:\\Users\\ricar\\Documents\\PokeAPi\\Domain\\Trainer\\Domain.Trainer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ricar\\Documents\\PokeAPi\\Domain\\Trainer\\Domain.Trainer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ricar\\Documents\\PokeAPi\\Domain\\Trainer\\Domain.Trainer.csproj",
+        "projectName": "Domain.Trainer",
+        "projectPath": "C:\\Users\\ricar\\Documents\\PokeAPi\\Domain\\Trainer\\Domain.Trainer.csproj",
+        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricar\\Documents\\PokeAPi\\Domain\\Trainer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,9 +106,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "AutoMapper": {
+            "MediatR": {
               "target": "Package",
-              "version": "[12.0.0, )"
+              "version": "[12.0.1, )"
             }
           },
           "imports": [
@@ -49,8 +117,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

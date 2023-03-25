@@ -10,3 +10,15 @@ C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Pokemon\obj\Deb
 C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Pokemon\obj\Debug\net6.0\refint\Domain.Pokemon.dll
 C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Pokemon\obj\Debug\net6.0\Domain.Pokemon.pdb
 C:\Users\017429631\Documents\Development\Projects\PokeApi\Domain\Pokemon\obj\Debug\net6.0\ref\Domain.Pokemon.dll
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\bin\Debug\net6.0\Domain.Pokemon.deps.json
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\bin\Debug\net6.0\Domain.Pokemon.dll
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\bin\Debug\net6.0\Domain.Pokemon.pdb
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\obj\Debug\net6.0\Domain.Pokemon.csproj.AssemblyReference.cache
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\obj\Debug\net6.0\Domain.Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\obj\Debug\net6.0\Domain.Pokemon.AssemblyInfoInputs.cache
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\obj\Debug\net6.0\Domain.Pokemon.AssemblyInfo.cs
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\obj\Debug\net6.0\Domain.Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\obj\Debug\net6.0\Domain.Pokemon.dll
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\obj\Debug\net6.0\refint\Domain.Pokemon.dll
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\obj\Debug\net6.0\Domain.Pokemon.pdb
+C:\Users\ricar\Documents\PokeAPi\Domain\Pokemon\obj\Debug\net6.0\ref\Domain.Pokemon.dll

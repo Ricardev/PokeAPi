@@ -3,21 +3,21 @@
 public class EvolutionChainModel
 {
     public int Id;
-    public ChainEntityFromJson Chain { get; set; }
+    public ChainModel Chain { get; set; }
 
-        public class ChainEntityFromJson
+        public class ChainModel
     {
-        public SpeciesEntityFromJson Species { get; set; }
-        public List<EvolutionEntityFromJson> EvolvesTo { get; set; }
+        public SpeciesModel Species { get; set; }
+        public List<EvolutionModel> EvolvesTo { get; set; }
     }
 
-    public class EvolutionEntityFromJson
+    public class EvolutionModel
     {
-        public SpeciesEntityFromJson Species { get; set; }
-        public List<EvolutionEntityFromJson> EvolvesTo { get; set; }
+        public SpeciesModel Species { get; set; }
+        public List<EvolutionModel> EvolvesTo { get; set; }
     }
 
-    public class SpeciesEntityFromJson
+    public class SpeciesModel
     {
         public string Name { get; set; }
     }

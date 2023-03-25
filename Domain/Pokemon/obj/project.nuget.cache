@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PR9M/Yf2CeIVvxgisnvxSSN+B5/XRWeGfESnZDo38FrIdeuQtPX80QwP2JGTsPEaNWXxSux2KRoUVgI4ygLRAg==",
+  "dgSpecHash": "x0BJ0IWdhlX/8O8FCKHuWnWyC8ZrlkBtwEWeN4Pti2CeJoTVRtIsqTkmj7lJ6rNMEIL7tVnwgIpBgcU25lxb9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\017429631\\Documents\\Development\\Projects\\PokeApi\\Domain\\Pokemon\\Domain.Pokemon.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ricar\\Documents\\PokeAPi\\Domain\\Pokemon\\Domain.Pokemon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
