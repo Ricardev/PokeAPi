@@ -23,9 +23,13 @@ public class TrainerCommandHandler : IRequestHandler<CreateTrainerCommand, bool>
                 .SetTrainerIdade(request.Idade)
                 .SetTrainerName(request.Nome)
                 .Build();
-        
+
             var success = await _trainerRepository.InserirTreinador(treinador);
             return success != null;
+        }
+        catch (FluentValidation.ValidationException e)
+        {
+            return false;
         }
         catch (Exception e)
         {

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ccmdY8HmoljdGqek2ZGvE8dV21wgv6Cuhg3WE046ngB3ZawyGHgjbvsWErQnA808ELnPI0oydn2ymV6JkyyKaA==",
+  "dgSpecHash": "ycOrUvG7JI6HnIB2IeJnufTztjqG8ZRB1zwtzyQxZ0ylmgnjxF5ckkQhAJ1XO6YMo8zd3L5qo2xUAGHSJLkFxg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ricar\\Documents\\PokeAPi\\Infra\\Data\\Infra.Data.Trainer\\Infra.Data.Trainer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

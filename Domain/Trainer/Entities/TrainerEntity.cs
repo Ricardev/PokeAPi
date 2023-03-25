@@ -1,4 +1,6 @@
-﻿namespace Trainer.Entities;
+﻿using FluentValidation;
+
+namespace Trainer.Entities;
 
 public class TrainerEntity
 {
@@ -10,4 +12,13 @@ public class TrainerEntity
     public void SetTrainerIdade(int idade) => Idade = idade;
     public void SetTrainerName(string name) => Name = name;
     public void SetTrainerCpf(string cpf) => Cpf = cpf;
+}
+
+public class TrainerValidator : AbstractValidator<TrainerEntity>
+{
+    public TrainerValidator()
+    {
+        RuleFor(x => x.Cpf)
+            .Matches(@"([0-9]{2}[\.]?[0-9]{3}[\.]?[0-9]{3}[\/]?[0-9]{4}[-]?[0-9]{2})|([0-9]{3}[\.]?[0-9]{3}[\.]?[0-9]{3}[-]?[0-9]{2})");
+    }
 }

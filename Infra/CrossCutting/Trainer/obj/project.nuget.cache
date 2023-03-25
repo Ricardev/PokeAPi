@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gLsX8rrAu1dOJ0UlsCTkmoHzuI4QBftuMIYw/fgx0zu3QZZ4Y8N09JFDZnT5GAa0UFbFlhWtngbWy30GEk+I3Q==",
+  "dgSpecHash": "5HJNc6ayl1PyZ5WX/TZvBBia9hoOyjA1UQ2k4A9uiUGj9aSlP0kMlhURHKa0Cda2japcOQpM0W7a3PXwm9AZGg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ricar\\Documents\\PokeAPi\\Infra\\CrossCutting\\Trainer\\Infra.CrossCutting.Trainer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricar\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -119,3 +119,4 @@ C:\Users\ricar\Documents\PokeAPi\Services\Trainer\obj\Debug\net6.0\Trainer.pdb
 C:\Users\ricar\Documents\PokeAPi\Services\Trainer\obj\Debug\net6.0\Trainer.genruntimeconfig.cache
 C:\Users\ricar\Documents\PokeAPi\Services\Trainer\obj\Debug\net6.0\ref\Trainer.dll
 C:\Users\ricar\Documents\PokeAPi\Services\Trainer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ricar\Documents\PokeAPi\Services\Trainer\bin\Debug\net6.0\FluentValidation.dll

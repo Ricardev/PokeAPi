@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pxicecnjyAyOf0CYuuTcenGVhKUdg1q7F1Kr5T2FeFlLGcsHmzmFvUxofv47osUxBsHCm68uc/1HIE3a6KdQkw==",
+  "dgSpecHash": "T0UGclcAM2+ph8JNmxiP1ld8Fvtn8urKDlynLLebapM1ny0fcbkbYsFk5fR2/qmxw1YFKYdZU+hdqoLZr2YgFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ricar\\Documents\\PokeAPi\\Domain\\Trainer\\Domain.Trainer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"

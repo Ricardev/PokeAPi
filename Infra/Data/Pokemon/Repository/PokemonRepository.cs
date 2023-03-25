@@ -84,7 +84,7 @@ public class PokemonRepository : IPokemonRepository
             Console.WriteLine(e);
             return new PokemonEntityFromJson();
         }
-        }
+    }
     
     private async Task<EvolutionChainEntityFromJson> ObterCadeiaDeEvolucoes(string url)
     {
